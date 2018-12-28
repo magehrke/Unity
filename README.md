@@ -51,4 +51,5 @@ _Development aspects:_
 
 * Aquisition and interpretation of touch input
 * Utilization of tilt input (accelerometer output)
-
+* Automatic level generation
+* Small screen size
